@@ -1,6 +1,6 @@
 # AI PDF Chatbot (RAG System)
 https://aoqex2rlxv9kcxkkdp4smn.streamlit.app/
-A production-ready Retrieval-Augmented Generation (RAG) system that allows users to upload PDF documents and have context-aware conversations with them. Built using LangChain, Streamlit, ChromaDB, and Groq API.
+## A production-ready Retrieval-Augmented Generation (RAG) system that allows users to upload PDF documents and have context-aware conversations with them. Built using LangChain, Streamlit, ChromaDB, and Groq API.
 
 ## Features
 - **PDF Processing**: Automatically extracts, splits, and processes PDF documents into manageable chunks.
