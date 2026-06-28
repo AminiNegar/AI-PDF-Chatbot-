@@ -8,3 +8,4 @@ langchain-groq
 langchain-core
 pypdf
 sentence-transformers
+langchain_community
